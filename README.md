@@ -1,2 +1,2 @@
-#Pharmacy Inventory management system
+#G10B Pharmacy Inventory management system
 ***
