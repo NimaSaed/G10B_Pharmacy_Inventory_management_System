@@ -1,2 +1,2 @@
-#G10B KH Inventory management system
+#G10B Pharmacy Inventory management system
 ***
