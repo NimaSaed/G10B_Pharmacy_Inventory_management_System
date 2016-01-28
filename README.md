@@ -1,2 +1,2 @@
-#title
+#Pharmacy Inventory management system
 ***
