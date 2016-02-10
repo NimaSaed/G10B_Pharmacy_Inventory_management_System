@@ -42,6 +42,30 @@ height: 470px;
 		</ul>	
 </div>
 </div>
+<div id="main">
+<!-- Dashboard icons -->
+            <div class="grid_7">
+            	<a href="pharmacist.php" class="dashboard-module">
+                	<img src="images/pharmacist_icon.jpg" width="100" height="100" alt="edit" />
+                	<span>Dashboard</span>
+                </a>
+                             
+                <a href="prescription.php" class="dashboard-module">
+                	<img src="images/prescri.jpg"  width="100" height="100" alt="edit" />
+                	<span>Prescription</span>
+                </a>
+
+	        <a href="stock_pharmacist.php" class="dashboard-module">
+                	<img src="images/stock_icon.jpg" width="100" height="100" alt="edit" />
+                	<span>Stock</span>
+                </a>
+
+		 <a href="#" class="dashboard-module">
+                	<img src="images\search0.png" width="100" height="100" alt="edit" />
+                	<span>Search</span>
+                </a>
+</div>
+</div>
 
 </div>
 </body>
