@@ -48,9 +48,12 @@ purchasing tasks.
 
 #####**HOW TO RUN THE SYSTEM**
 
-STEPS:1.Run xampp
-      2.Start Apache and Mysql
-      3.Click on web browser and type localhost/fillename.php
+STEPS:
+      1.Download xampp from xampp website
+      2.Install xampp in your computer
+      3.Run xampp
+      4.Start Apache and Mysql
+      5.Click on web browser and type localhost/fillename.php
 
 
 #####**CHOICE OF WEB COMPONENTS**
