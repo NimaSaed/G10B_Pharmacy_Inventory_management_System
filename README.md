@@ -67,8 +67,8 @@ STEPS:
 
 | NAME    | CONTRIBUTIONS |
 |-------- | --------------|
-| Seelan  | Coding        |
-| Kani    | Documentation + Coding |
+| Dharmaseelan  | Coding        |
+| Kanimozhi   | Documentation + Coding |
 | Magdelene | Documentation + Coding |
 | Cavin Michael | Coding |
 
