@@ -82,6 +82,15 @@ STEPS:
 
 ![dashboard](https://cloud.githubusercontent.com/assets/16029052/13036113/fe5a15ba-d399-11e5-97f1-302854fb3bc2.PNG)
 
+**Manage Stock**
+ * View Medicine Stock
+ ![manage stock view stock](https://cloud.githubusercontent.com/assets/16029052/13036149/ab60d03c-d39a-11e5-9dd6-33a514ff4831.PNG)
+
+ * Add Medicine Stock 
+ ![manage stock add medicine](https://cloud.githubusercontent.com/assets/16029052/13036156/d60f335a-d39a-11e5-8949-1ad271f40215.PNG)
+
+ 
+
 
 #####**CONCLUSION** 
 
