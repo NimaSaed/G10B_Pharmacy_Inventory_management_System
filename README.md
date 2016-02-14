@@ -72,7 +72,11 @@ STEPS:
 | Magdelene | Documentation + Coding |
 | Cavin Michael | Coding |
 
+#####**SCREEN SHOTS**
+
+**Login page** 
+![login page](https://cloud.githubusercontent.com/assets/16029052/13035965/29d979d2-d396-11e5-86a1-90edb83c7558.PNG)
+
 #####**CONCLUSION** 
 
-#####**SCREEN SHOTS**
 
