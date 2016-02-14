@@ -75,7 +75,13 @@ STEPS:
 #####**SCREEN SHOTS**
 
 **Login page** 
+
 ![login page](https://cloud.githubusercontent.com/assets/16029052/13035965/29d979d2-d396-11e5-86a1-90edb83c7558.PNG)
+
+**Dashboard (Main Menu) **
+
+![dashboard](https://cloud.githubusercontent.com/assets/16029052/13036113/fe5a15ba-d399-11e5-97f1-302854fb3bc2.PNG)
+
 
 #####**CONCLUSION** 
 
