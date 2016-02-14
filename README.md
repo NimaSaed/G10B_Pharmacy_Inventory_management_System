@@ -18,7 +18,7 @@
 |MAGDELENE ANN      |1131122877|
 |KANIMOZHI          |1132702203|
 |SEELAN             |1141125271|
-|CAVIN MICHAEL      |   11311  |
+|CAVIN MICHAEL      |1112700763|
 
 
 
@@ -53,7 +53,7 @@ STEPS:
       2.Install xampp in your computer
       3.Run xampp
       4.Start Apache and Mysql
-      5.Click on web browser and type localhost/fillename.php
+      5.Click on web browser and type localhost/pms/index.php
 
 
 #####**CHOICE OF WEB COMPONENTS**
