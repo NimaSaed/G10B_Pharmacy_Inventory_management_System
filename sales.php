@@ -65,30 +65,6 @@ while($row = mysql_fetch_array($result))
     </table> ";
   }
 ?>
-               <table width="230" border="0" align="center">
-                  <tr>
-                    
-                    </tr>
-                  </table>
-                  <table width="230" border="0" align="center">
-                    <tr>
-                        
-                    </tr>
-                  </table>
-                  <table width="230" border="0" align="center">
-                    <tr>
-                      
-                    </tr>
-                  </table>
-                <table width="230" border="0" align="center">
-                  <tr>
-                    
-                    </tr>
-                </table>
-              </td>
-              </tr>
-          </table>
- <table width="60%" border="0" align="center" cellpadding="10">
             <tr>
               <td height="20" align="left" valign="middle" bgcolor="#666666" style="border-top-left-radius:10px; border-top-right-radius:10px"><font style="font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#FFF; font-weight:bold">Monthly Sales</font></td>
               </tr>
@@ -123,31 +99,7 @@ while($row = mysql_fetch_array($result))
       
     </table> ";
   }
-?><table width="230" border="0" align="center">
-                  <tr>
-                    
-                    </tr>
-                  </table>
-                  <table width="230" border="0" align="center">
-                    <tr>
-                        
-                    </tr>
-                  </table>
-                  <table width="230" border="0" align="center">
-                    <tr>
-                      
-                    </tr>
-                  </table>
-                <table width="230" border="0" align="center">
-                  <tr>
-                    
-                    </tr>
-                </table>
-              </td>
-              </tr>
-          </table>
-          
-<table width="60%" border="0" align="center" cellpadding="10">
+?>
             <tr>
               <td height="20" align="left" valign="middle" bgcolor="#666666" style="border-top-left-radius:10px; border-top-right-radius:10px"><font style="font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#FFF; font-weight:bold">Frequently Sold</font></td>
               </tr>
