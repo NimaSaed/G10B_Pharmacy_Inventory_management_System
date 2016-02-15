@@ -45,7 +45,7 @@ $message1="<font color=red>Registration Failed, Try again</font>";
 <div id="button">
 <ul>
 			<li><a href="pharmacist.php">Dashboard</a></li>
-			<li><a href="prescription.php">Prescription</a></li>
+			<li><a href="sales.php">Sales</a></li>
 			<li><a href="stock_pharmacist.php">Stock</a></li>
 			<li><a href="logout.php">Logout</a></li>
 		</ul>	
@@ -64,10 +64,7 @@ $message1="<font color=red>Registration Failed, Try again</font>";
         </ul>  
           
         <div id="content_1" class="content">  
-		 <?php echo $message;
-			  echo $message1;
-			  ?>
-      
+		      
 		<?php
 		/* 
 		View
@@ -105,9 +102,7 @@ $message1="<font color=red>Registration Failed, Try again</font>";
         </div>  
         <div id="content_2" class="content">  
          <!--Add Drug-->
-		 <?php echo $message;
-			  echo $message1;
-			  ?>
+
 			<form name="myform" onsubmit="return validateForm(this);" action="stock_pharmacist.php" method="post" >
 			<table width="420" height="106" border="0" >	
 				<tr><td align="center"><input name="drug_name" type="text" style="width:170px" placeholder="Drug Name" required="required" id="drug_name" /></td></tr>
