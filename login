@@ -4,9 +4,11 @@ if(isset($_POST['submit'])){
 $username=$_POST['username'];
 $password=$_POST['password'];
 $position=$_POST['position'];
-switch($position){
 
+
+switch($position){
 case 'Pharmacist':
+
 $result=mysql_query("SELECT pharmacist_id, first_name,last_name,staff_id,username FROM pharmacist WHERE username='$username' AND password='$password'");
 $row=mysql_fetch_array($result);
 if($row>0){
@@ -56,15 +58,17 @@ height: auto;}
 		<option>--Select position--</option>
 			
 			<option>Pharmacist</option>
-			
 			</select></p>
         <p class="submit"><input type="submit" name="submit" value="Login"></p>
       </form>
     </div>
     </section>
+
 </div>
 </div>
 </body>
-</html>
+</html>	
 LOGIN;
+
 ?>
+
