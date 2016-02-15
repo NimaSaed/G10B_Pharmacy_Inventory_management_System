@@ -49,22 +49,23 @@ purchasing tasks.
 #####**HOW TO RUN THE SYSTEM**
 
 STEPS:
-      *1.Download xampp from xampp website
-      *2.Install xampp in your computer
-      *3.Run xampp
-      *4.Start Apache and Mysql
-      *5.Save the project files into the xampp htdocs folder
-      *6.Import the pahrmacist.sql into the pharmacy database in phpmyAdmin
-      *7.Click on web browser and type localhost/pms/index.php
-      *8. Key in the username and password to access the pharmaceutical system. 
+      1.Download xampp from xampp website
+      2.Install xampp in your computer
+      3.Run xampp
+      4.Start Apache and Mysql
+      5.Save the project files into the xampp htdocs folder
+      6.Import the pahrmacist.sql into the pharmacy database in phpmyAdmin
+      7.Click on web browser and type localhost/pms/index.php
+      8. Key in the username and password to access the pharmaceutical system. 
 
 
 #####**CHOICE OF WEB COMPONENTS**
-*1.HTML
-*2.CSS
-*3.JAVASCRIPT
-*4.PHPMYADMIN
-*5.MYSQL
+ 
+  *HTML
+  *CSS
+  *JAVASCRIPT
+  *PHPMYADMIN
+  *MYSQL
 
 #####**CONTRIBUTION** 
 
@@ -96,7 +97,8 @@ STEPS:
 ![search](https://cloud.githubusercontent.com/assets/16029052/13040060/2925a88e-d3e2-11e5-9891-117f229d0480.PNG)
 
 **Medicine Sales Record**
-![sales](https://cloud.githubusercontent.com/assets/16029052/13040077/693a91b4-d3e2-11e5-9ffc-f481da0540f5.jpg)
+![sales](https://cloud.githubusercontent.com/assets/16029052/13040188/d5f39ac0-d3e3-11e5-9e01-bec1b7de341e.jpg)
+
 
 #####**CONCLUSION** 
 
