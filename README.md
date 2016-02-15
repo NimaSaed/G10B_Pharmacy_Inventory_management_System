@@ -89,8 +89,11 @@ STEPS:
  * Add Medicine Stock 
  ![manage stock add medicine](https://cloud.githubusercontent.com/assets/16029052/13036156/d60f335a-d39a-11e5-8949-1ad271f40215.PNG)
 
- 
+**Search Medinine**
+![search](https://cloud.githubusercontent.com/assets/16029052/13040060/2925a88e-d3e2-11e5-9891-117f229d0480.PNG)
 
+**Medicine Sales Record**
+![sales](https://cloud.githubusercontent.com/assets/16029052/13040077/693a91b4-d3e2-11e5-9ffc-f481da0540f5.jpg)
 
 #####**CONCLUSION** 
 
