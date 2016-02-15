@@ -36,7 +36,7 @@ height: 470px;
 <div id="button">
 <ul>
 			<li><a href="pharmacist.php">Dashboard</a></li>
-			<li><a href="prescription.php">Prescription</a></li>
+			<li><a href="sales.php">Sales</a></li>
 			<li><a href="stock_pharmacist.php">Stock</a></li>
 			<li><a href="logout.php">Logout</a></li>
 		</ul>	
@@ -50,9 +50,9 @@ height: 470px;
                 	<span>Dashboard</span>
                 </a>
                              
-                <a href="prescription.php" class="dashboard-module">
+                <a href="sales.php" class="dashboard-module">
                 	<img src="images/prescri.jpg"  width="100" height="100" alt="edit" />
-                	<span>Prescription</span>
+                	<span>Sales</span>
                 </a>
 
 	        <a href="stock_pharmacist.php" class="dashboard-module">
@@ -60,13 +60,12 @@ height: 470px;
                 	<span>Stock</span>
                 </a>
 
-		 <a href="#" class="dashboard-module">
+		 <a href="search.php" class="dashboard-module">
                 	<img src="images\search0.png" width="100" height="100" alt="edit" />
                 	<span>Search</span>
                 </a>
+              </div>
 </div>
-</div>
-
 </div>
 </body>
 </html>
