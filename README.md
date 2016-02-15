@@ -49,23 +49,23 @@ purchasing tasks.
 #####**HOW TO RUN THE SYSTEM**
 
 STEPS:
-      1.Download xampp from xampp website
-      2.Install xampp in your computer
-      3.Run xampp
-      4.Start Apache and Mysql
-      5.Save the project files into the xampp htdocs folder
-      6.Import the pahrmacist.sql into the pharmacy database in phpmyAdmin
-      7.Click on web browser and type localhost/pms/index.php
-      8. Key in the username and password to access the pharmaceutical system. 
+       1.Download xampp from xampp website
+       2.Install xampp in your computer
+       3.Run xampp
+       4.Start Apache and Mysql
+       5.Save the project files into the xampp htdocs folder
+       6.Import the pahrmacist.sql into the pharmacy database in phpmyAdmin
+       7.Click on web browser and type localhost/pms/index.php
+       8. Key in the username and password to access the pharmaceutical system. 
 
 
 #####**CHOICE OF WEB COMPONENTS**
  
-  *HTML
-  *CSS
-  *JAVASCRIPT
-  *PHPMYADMIN
-  *MYSQL
+  * HTML
+  * CSS
+  * JAVASCRIPT
+  * PHPMYADMIN
+  * MYSQL
 
 #####**CONTRIBUTION** 
 
@@ -101,5 +101,7 @@ STEPS:
 
 
 #####**CONCLUSION** 
+
+To conclude this project, there were many challenges faced while doing this project which made it hard for us to meet our objectives of this system. In this system, you will be able to view all the medicine stock, add stock as well as delete the medicine stock. You are also able to search for a particular medinine of your preference and there is a main menu interface (dashboard) to display all these functions. However, there were certain things that we were not able to implement. The password is not encrypted in md5 or sha1. This makes our system vulnerable as hackers can easily hack our database. Also, our system is also not in https which makes it vulnerable. 
 
 
