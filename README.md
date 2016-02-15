@@ -49,19 +49,22 @@ purchasing tasks.
 #####**HOW TO RUN THE SYSTEM**
 
 STEPS:
-      1.Download xampp from xampp website
-      2.Install xampp in your computer
-      3.Run xampp
-      4.Start Apache and Mysql
-      5.Click on web browser and type localhost/pms/index.php
+      *1.Download xampp from xampp website
+      *2.Install xampp in your computer
+      *3.Run xampp
+      *4.Start Apache and Mysql
+      *5.Save the project files into the xampp htdocs folder
+      *6.Import the pahrmacist.sql into the pharmacy database in phpmyAdmin
+      *7.Click on web browser and type localhost/pms/index.php
+      *8. Key in the username and password to access the pharmaceutical system. 
 
 
 #####**CHOICE OF WEB COMPONENTS**
-1.HTML
-2.CSS
-3.JAVASCRIPT
-4.PHPMYADMIN
-5.MYSQL
+*1.HTML
+*2.CSS
+*3.JAVASCRIPT
+*4.PHPMYADMIN
+*5.MYSQL
 
 #####**CONTRIBUTION** 
 
